@@ -74,7 +74,7 @@ export default function Inicio({navigation}) {
                 icon={'plus'}
                 onPress={() => navigation.push('Cadastrar')}
                 style={[styles.addcar]}
-            >ADD</Button>
+            >Adicionar</Button>
             <Button
                 buttonColor='blue'
                 textColor='white'
